@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
 <p align="center"><strong> I'm a noob android developer, Currently maintaining Resurrection Remix OS and SuperiorOS for Xiaomi Redmi Note 7 Pro aka violet
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
-<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Joker-V2&style=flat-square" />
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Joker-V2&style=flat-round" />
 
 <p align='center'>
   <a
