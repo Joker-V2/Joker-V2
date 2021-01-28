@@ -6,3 +6,15 @@
 
 
 ![Joker-V2's github stats](https://github-readme-stats.vercel.app/api?username=Joker-V2&show_icons=true&theme=radical)
+
+<p align='center'>
+<a href="https://t.me/joker_v2_0/">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a 
+<a href="https://gitlab.com/Joker-V2">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>&nbsp;&nbsp;
+  <a 
+<a href="https://www.facebook.com/nipin.na">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
