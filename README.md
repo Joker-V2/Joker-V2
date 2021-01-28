@@ -11,12 +11,12 @@ href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joker-V2&
 
 <p align='center'>
 <a href="https://t.me/joker_v2_0/">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100" />
 </a>&nbsp;&nbsp;
   <a 
 <a href="https://gitlab.com/Joker-V2">
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" width="80" />
 </a>&nbsp;&nbsp;
   <a 
 <a href="https://www.facebook.com/nipin.na">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100" />
