@@ -6,7 +6,7 @@
 
 <p align='center'>
   <a
-href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joker-V2&show_icons=true&theme=radical" width="350"></a>
+href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joker-V2&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="350"></a>
 </p>
 
 <p align='center'>
