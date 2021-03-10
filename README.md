@@ -9,6 +9,9 @@
 href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joker-V2&count_private=true&include_all_commits=true&show_icons=true&theme=radical" width="350"></a>
 </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joker-V2&theme=dark"/></p>
+<div align="center">
+
 <p align='center'>
 <a href="https://t.me/joker_v2_0/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="100" />
