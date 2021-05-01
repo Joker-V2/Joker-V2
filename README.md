@@ -1,6 +1,8 @@
 <p align="center"><strong>Hello , I'm Nipin NA (Joker-V2)</strong></p>
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
-<p align="center"><strong> I'm a noob android developer, Currently maintaining Resurrection Remix OS and SuperiorOS for Xiaomi Redmi Note 7 Pro aka violet
+<p align="center"><strong> I'm a noob android developer, 
+<p align="center"><strong> Currently maintaining Resurrection Remix OS 
+<p align="center"><strong> and SuperiorOS for Xiaomi Redmi Note 7 Pro aka violet
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Joker-V2&style=flat-round" />
 
